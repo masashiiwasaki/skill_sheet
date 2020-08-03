@@ -55,12 +55,12 @@
 
 #### 主な担当
 
-- サブスクストア
-https://subscription-store.com/
+- サブスクストア<br>
+https://subscription-store.com/<br>
 ECカート事業になります。主に全体的な開発マネージメントと開発も行っております。
 
-- サブスクアット
-https://www.subsc-at.com/
+- サブスクアット<br>
+https://www.subsc-at.com/<br>
 サブスクストアに比べ、簡単にショップを持つことができチケットや回数券など簡単に発行することが出来、リアル店舗での運用も視野にいれてつくられています。
 こちらは基本的に自分ひとりで運用、開発を行っております。
 
@@ -87,11 +87,10 @@ https://www.subsc-at.com/
 
 ## 課外活動
 
-- MILESTO 2019 A/w
-
-CPのコーディングを担当させてもらいました。
+- MILESTO 2019 A/w<br><br>
+CPのコーディングを担当させてもらいました。<br>
 https://idea-onlineshop.jp/ext/feature/milesto/19awbook?event_category=banner&event_label=mlstop_19awbook/
 
-- 三鷹さくらクリニック
-コーディングを担当させてもらいました。
+- 三鷹さくらクリニック<br><br>
+コーディングを担当させてもらいました。<br>
 http://mitaka-sakura.com/
