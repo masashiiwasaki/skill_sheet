@@ -87,10 +87,10 @@ https://www.subsc-at.com/<br>
 
 ## 課外活動
 
-- MILESTO 2019 A/w<br><br>
+- MILESTO 2019 A/w<br>
 CPのコーディングを担当させてもらいました。<br>
 https://idea-onlineshop.jp/ext/feature/milesto/19awbook?event_category=banner&event_label=mlstop_19awbook/
 
-- 三鷹さくらクリニック<br><br>
+- 三鷹さくらクリニック<br>
 コーディングを担当させてもらいました。<br>
 http://mitaka-sakura.com/
