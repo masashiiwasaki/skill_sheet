@@ -69,6 +69,7 @@ https://otetsutabi.com/<br>
 - 事業者LP作成
 https://otetsutabi.com/business
 - マッチングスライダー機能作成
+- パフォーマンスチューニングやリファクタリングの事を考慮して各ページのSSRからSPA対応
 
 ### 2018/04 - 2021/01: 株式会社テモナ
 
