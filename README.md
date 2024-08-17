@@ -107,6 +107,12 @@ https://www.subsc-at.com/<br>
 
 ## 課外活動
 
+### 2024
+
+- desknet's NEO<br>
+コーディングを担当させてもらいました。<br>
+https://www.desknets.com/neo/lp/workflow_rec/
+
 ### 2023
 
 - 宮村・井桁法律事務所<br>
