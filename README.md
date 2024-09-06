@@ -26,14 +26,14 @@
 
 ## スキル
 
-- Ruby: 4年
-- Ruby on Rails: 4年
+- Ruby: 5年
+- Ruby on Rails: 5年
 - PostgreSQL: 4年
 - MySQL: 1年
 - Elastic serch: 3年
 - react: 4年
-- TypeScript: 1年
-- AWS: 1年
+- TypeScript: 2年
+- AWS: 2年
 - jQuery: ８年
 - html: ８年
 - css: ８年
@@ -67,9 +67,10 @@ https://otetsutabi.com/<br>
 - 労働条件通知書機能
 - 源泉徴収票機能
 - 事業者LP作成
-https://otetsutabi.com/business
 - マッチングスライダー機能作成
 - パフォーマンスチューニングやリファクタリングの事を考慮して各ページのSSRからSPA対応
+- 一部ヘッドレスCMS化(労働条件通知書機能)
+- TOPページUI改善(https://zenn.dev/otetsutabi_tech/articles/20220826_gan)
 
 ### 2018/04 - 2021/01: 株式会社テモナ
 
