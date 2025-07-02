@@ -53,14 +53,24 @@
 
 ## 職務経歴
 
-### 2021/04 - 現在: 株式会社おてつたび
+### 2021/04 - 2025/06: 株式会社おてつたび
 
 職務: Webアプリケーションエンジニア
 
 - おてつたび<br>
 https://otetsutabi.com/<br>
 地域に興味がある若者と人手不足に困っている事業者をマッチングするプラットフォームの開発を行っております。
-要件定義からデザイン、フロントエンドならびにサーバサイドの開発までしています。
+要件定義からデザイン、フロントエンドならびサーバサイドの開発までしています。
+
+### 言語/ツール
+- 言語: ruby, TypeScript, JavaScript
+- フレームワーク: Ruby on Rails, React.js
+- ツール類: Notion, GitHub, Redash, Sentry, Figma
+
+### 機種・OS
+- データベース: MySQL
+- Webサーバ: AWS
+- ミドルウェア: Nginx, Redis, Firebase
 
 #### 成果
 - 売り上げ統計機能
@@ -69,6 +79,7 @@ https://otetsutabi.com/<br>
 - 事業者LP作成
 - マッチングスライダー機能作成
 - パフォーマンスチューニングやリファクタリングの事を考慮して各ページのSSRからSPA対応
+  - １ページにおいて、slim(HTML)とReactの混在、slimでReatを返す、SPAなどが混在していることによる、可読性と見通しの悪さなどの問題があったため、すべてのページをJS(React)に移行
 - 一部ヘッドレスCMS化(労働条件通知書機能)
 - TOPページUI改善(https://zenn.dev/otetsutabi_tech/articles/20220826_gan)
 
@@ -84,6 +95,16 @@ ECカート事業になります。主に全体的な開発マネージメント
 https://www.subsc-at.com/<br>
 サブスクストアに比べ、簡単にショップを持つことができチケットや回数券など簡単に発行することが出来、リアル店舗での運用も視野にいれてつくられています。
 こちらは基本的に自分ひとりで運用、開発を行っております。
+
+### 言語/ツール
+- 言語: ruby, JavaScript
+- フレームワーク: Ruby on Rails, React.js
+- ツール類: GitHub
+
+### 機種・OS
+- データベース: PostgreSQL
+- Webサーバ: AWS
+- ミドルウェア: Nginx, Redis, ElasticSearch
 
 #### 成果
 - UI改善/rspec改善
