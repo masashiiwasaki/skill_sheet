@@ -108,6 +108,12 @@ https://www.subsc-at.com/<br>
 
 ## 課外活動
 
+### 2025
+
+- LOCAL FOOD LIFE meets沖縄<br>
+ティザーサイトと本サイトのコーディングを担当させてもらいました。<br>
+https://localfoodlife.welcome.jp
+
 ### 2024
 
 - desknet's NEO<br>
