@@ -62,12 +62,12 @@ https://otetsutabi.com/<br>
 地域に興味がある若者と人手不足に困っている事業者をマッチングするプラットフォームの開発を行っております。
 要件定義からデザイン、フロントエンドならびサーバサイドの開発までしています。
 
-### 言語/ツール
+#### 言語/ツール
 - 言語: ruby, TypeScript, JavaScript
 - フレームワーク: Ruby on Rails, React.js
 - ツール類: Notion, GitHub, Redash, Sentry, Figma
 
-### 機種・OS
+#### 機種・OS
 - データベース: MySQL
 - Webサーバ: AWS
 - ミドルウェア: Nginx, Redis, Firebase
@@ -96,12 +96,12 @@ https://www.subsc-at.com/<br>
 サブスクストアに比べ、簡単にショップを持つことができチケットや回数券など簡単に発行することが出来、リアル店舗での運用も視野にいれてつくられています。
 こちらは基本的に自分ひとりで運用、開発を行っております。
 
-### 言語/ツール
+#### 言語/ツール
 - 言語: ruby, JavaScript
 - フレームワーク: Ruby on Rails, React.js
 - ツール類: GitHub
 
-### 機種・OS
+#### 機種・OS
 - データベース: PostgreSQL
 - Webサーバ: AWS
 - ミドルウェア: Nginx, Redis, ElasticSearch
