@@ -17,7 +17,7 @@
     </tr>
     <tr>
         <td><strong>ポートフォリオ</strong></td>
-        <td>https://qiita.com/masashiiwasaki</td>
+        <td>https://fori.io/iwasaki-masashi</td>
     </tr>
 </table>
 
