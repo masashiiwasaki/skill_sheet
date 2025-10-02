@@ -67,8 +67,8 @@ https://otetsutabi.com/<br>
 要件定義からデザイン、フロントエンドならびサーバサイドの開発までしています。
 
 #### 言語/ツール
-- 言語: ruby, TypeScript, JavaScript
-- フレームワーク: Ruby on Rails, React.js
+- 言語: ruby(version: 3.4.4), TypeScript, JavaScript
+- フレームワーク: Ruby on Rails(version: 7.2.1), React.js(version: 17)
 - ツール類: Notion, GitHub, Redash, Sentry, Figma
 
 #### 機種・OS
