@@ -73,7 +73,7 @@ https://otetsutabi.com/<br>
 
 #### 機種・OS
 - データベース: MySQL
-- Webサーバ: AWS
+- Webサーバ: AWS(OS: Linux)
 - ミドルウェア: Nginx, Redis, Firebase
 
 #### 成果
